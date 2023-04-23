@@ -1,4 +1,4 @@
-package com.example.projetointer;
+package com.example.projetointer.controllers;
 
 import javafx.fxml.Initializable;
 

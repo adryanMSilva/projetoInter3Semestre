@@ -10,4 +10,6 @@ module com.example.projetointer {
 
     opens com.example.projetointer to javafx.fxml;
     exports com.example.projetointer;
+    exports com.example.projetointer.controllers;
+    opens com.example.projetointer.controllers to javafx.fxml;
 }
